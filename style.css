@@ -41,13 +41,7 @@ button {
     font-size: 16px; 
 }
 
-.wrong-answer {
-    margin: 4px;
-    width: 160px;
-    height: 40px;
-    border-radius: 8px;
-    font-size: 16px; 
-}
+
 
 h1 {
     margin-top: 0px;
@@ -76,28 +70,4 @@ p {
     margin-top: 16px;
     border-radius: 8px;
     text-align: center;
-}
-
-.hide {
-    display: none;
-}
-
-#question-screen-1 {
-    
-}
-
-#question-screen-2 {
-   
-}
-
-#question-screen-3 {
-    
-}
-
-#question-screen-4 {
-    
-}
-
-#question-screen-5 {
-    
 }
